@@ -16,10 +16,12 @@ Geographic distribution of orders displayed on an interactive map.
 ## Clothing Size Analysis:
 Order counts segmented by the size of clothes ordered.
 
-##Sales Channel Analysis:
+## Sales Channel Analysis:
 Comparison of order counts between Amazon's sales channels and non-merchant platforms.
 
 ## Interactive Filters:- 
 The dashboard is equipped with intuitive filters, to enable dynamic data visualization. Users can easily click on filters to focus on specific categories or regions, for a tailored view. Key Metrics and Visualizations.
 
 The dashboard uses a combination of charts (like bar charts, donut cahrts, map, cards and slicers) and tables to visualize data effectively. It highlights essential KPIs such as total orders, courier status, and top-performing categories or regions. With this user-friendly dashboard, decision-makers can quickly extract valuable insights, identify trends, and drive informed strategies for their products.
+
+## BI Dasbhoard:- <a href= "https://github.com/Kailash-chowdhury/Amazon_Orders_Report/blob/main/Amazon%20Order%20Dashboard.pbix">Dataset</a>
