@@ -25,3 +25,7 @@ The dashboard is equipped with intuitive filters, to enable dynamic data visuali
 The dashboard uses a combination of charts (like bar charts, donut cahrts, map, cards and slicers) and tables to visualize data effectively. It highlights essential KPIs such as total orders, courier status, and top-performing categories or regions. With this user-friendly dashboard, decision-makers can quickly extract valuable insights, identify trends, and drive informed strategies for their products.
 
 ## BI Dasbhoard:- <a href= "https://github.com/Kailash-chowdhury/Amazon_Orders_Report/blob/main/Amazon%20Order%20Dashboard.pbix">Dataset</a>
+## Dashboard Interaction:- <a href= "https://github.com/Kailash-chowdhury/Amazon_Orders_Report/blob/main/Amazon%20Order%20Dashboard.png"> View Dashboard</a>
+## Raw Dataset:- <a href= "https://github.com/Kailash-chowdhury/Amazon_Orders_Report/blob/main/Amazon%20Sale%20Report%20-%20YT.xlsx">Dataset</a>
+## Dashboard Preview:-
+![Amazon Order Dashboard](https://github.com/user-attachments/assets/e2436b6e-f251-453e-a752-442ccaa82057)
